@@ -2,3 +2,6 @@
 package.json
 package-lock.json
 *.md
+
+coverage/
+node_modules/
