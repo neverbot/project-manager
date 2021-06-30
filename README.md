@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" alt="hexagon logo" src="/assets/logo.jpg">
+  <img width="300" alt="project manager logo" src="/assets/logo.png">
 </p>
 
 # project-manager
@@ -10,7 +10,7 @@ Work-in-progress command line tool to manage a list of projects.
 
 Install globally :
 
-`$ npm install -g project-manager` // TODO, not yet in npm
+`$ npm install -g project-manager // TODO, not yet in npm`
 
 ## Use
 
