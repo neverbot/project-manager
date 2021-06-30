@@ -1,0 +1,12 @@
+{
+  "fakeProject": {
+    "tags": [
+      "backend"
+    ]
+  },
+  "notRealProject": {
+    "tags": [
+      "backend"
+    ]
+  }
+}
