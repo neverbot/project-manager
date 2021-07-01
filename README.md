@@ -1,10 +1,8 @@
 <p align="center">
-  <img width="300" alt="project manager logo" src="/assets/logo.png">
+  <img width="500" alt="project manager logo" src="/assets/logo.png">
+  <br/>
+  Work-in-progress command line tool to manage a list of projects.
 </p>
-
-# project-manager
-
-Work-in-progress command line tool to manage a list of projects.
 
 ## Installation
 
